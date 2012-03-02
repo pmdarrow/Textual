@@ -2291,7 +2291,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = Textual.entitlements;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2325,7 +2325,6 @@
 					AppKit,
 				);
 				PRODUCT_NAME = Textual;
-				PROVISIONING_PROFILE = "";
 				SDKROOT = "";
 				SKIP_INSTALL = NO;
 				TEXTUAL_BUNDLE_ID = com.codeux.irc.textual;
@@ -2375,7 +2374,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = Textual.entitlements;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2410,7 +2409,6 @@
 					AppKit,
 				);
 				PRODUCT_NAME = Textual;
-				PROVISIONING_PROFILE = "";
 				SDKROOT = "";
 				TEXTUAL_BUNDLE_ID = com.codeux.irc.textual;
 				TEXTUAL_GITREF_BUILD_ID = debug;
@@ -2424,7 +2422,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = Textual.entitlements;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2458,7 +2456,6 @@
 					AppKit,
 				);
 				PRODUCT_NAME = Textual;
-				PROVISIONING_PROFILE = "";
 				SDKROOT = "";
 				TEXTUAL_BUNDLE_ID = com.codeux.irc.textual;
 				TEXTUAL_GITREF_BUILD_ID = stdbuild;
@@ -2500,7 +2497,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = Textual.entitlements;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2534,7 +2531,6 @@
 					AppKit,
 				);
 				PRODUCT_NAME = Textual;
-				PROVISIONING_PROFILE = "";
 				SDKROOT = "";
 				TEXTUAL_BUNDLE_ID = com.codeux.irc.textual.trial;
 				TEXTUAL_GITREF_BUILD_ID = trial;
@@ -2576,7 +2572,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "";
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2610,7 +2606,6 @@
 					AppKit,
 				);
 				PRODUCT_NAME = Textual;
-				PROVISIONING_PROFILE = "";
 				SDKROOT = "";
 				TEXTUAL_BUNDLE_ID = com.codeux.irc.textual;
 				TEXTUAL_GITREF_BUILD_ID = "stdbuild,nosndbox";
